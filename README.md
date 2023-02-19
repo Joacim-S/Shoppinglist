@@ -1,4 +1,5 @@
 # Ostoslista
+#Ei mitään tomivaa vielä!
 
 Sovelluksessa voi luoda ostoslistoja, sekä tallentaa reseptien ainesosalistoja.
 Ostoslistaan voi sitten lisätä suoraan kokonaisen reseptin ainesosat.
